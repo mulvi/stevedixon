@@ -66,11 +66,11 @@
 - Ticketmaster - 1991-1993 - Regional Director Of Promotions/Marketing
 
 ## Information:
-	# - Contact
-	# - Biography
-	# - News
-	# - Press
-	# - Download high resolution images
+	### - Contact
+	### - Biography
+	### - News
+	### - Press
+	### - Download high resolution images
 
 You can use the [editor on GitHub](https://github.com/mulvi/stevedixon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
