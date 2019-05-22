@@ -1,4 +1,4 @@
-## Steve Dixon is a creative producer and touring consultant who has produced some of the biggest pop acts in music history
+# Steve Dixon is a creative producer and touring consultant who has produced some of the biggest pop acts in music history
 
 ## Work:
 - Aerosmith - Deuces Are Wild Residency - Show Producer
@@ -65,12 +65,12 @@
 
 - Ticketmaster - 1991-1993 - Regional Director Of Promotions/Marketing
 
-## Information:
-	### Contact
-	### Biography
-	### News
-	### Press
-	### Download high resolution images
+### Information:
+	- Contact
+	- Biography
+	- News
+	- Press
+	- Download high resolution images
 
 You can use the [editor on GitHub](https://github.com/mulvi/stevedixon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
