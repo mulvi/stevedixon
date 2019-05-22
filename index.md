@@ -1,4 +1,4 @@
-# Steve Dixon is a creative producer and touring consultant who has produced some of the biggest pop acts in music history
+### Steve Dixon is a creative producer and touring consultant who has produced some of the biggest pop acts in music history
 
 ## Work:
 - Aerosmith - Deuces Are Wild Residency - Show Producer
